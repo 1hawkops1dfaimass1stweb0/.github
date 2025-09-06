@@ -1,0 +1,2 @@
+# .github
+stereo are strange
